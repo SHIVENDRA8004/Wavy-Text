@@ -11,6 +11,7 @@ body{
     margin: 0;
     padding: 0;
     font-family: consolas;
+    text-align:left;
 }
 .text{
     position: relative;
@@ -64,7 +65,11 @@ body{
     color: white;
     
 }
-
-.para{
-    color: white;
+.footer{
+    margin-top: 25em;
+    text-align: center;
+}
+.footer2{
+    font-size: 0.6em;
+    text-align: center;
 }
